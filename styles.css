@@ -1,0 +1,15 @@
+.title {
+    font-family: 'Satisfy', cursive;
+}
+
+.navbar {
+    padding: 20px;
+}
+
+.nav-item{
+    padding: 10px;
+}
+
+.productTitle {
+    text-align: center;
+}
